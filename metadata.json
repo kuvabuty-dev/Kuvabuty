@@ -1,0 +1,6 @@
+{
+  "name": "VaultSync",
+  "description": "End-to-end encrypted online cloud storage with real-time cross-device synchronization, zero-knowledge security, and cryptographic audit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
